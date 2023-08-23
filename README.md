@@ -6,5 +6,5 @@ I really like the subjects and pace in this course
 
 [Natural Language Processing (NLP) Zero to Hero](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
 
-!!todo
+!!todo  
 Assignment using the snippets i videos
